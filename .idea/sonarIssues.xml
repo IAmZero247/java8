@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/flatmap/Example.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/flatmap/JoinUsingStreams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sample/Sample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sample/ShiftBasedOnK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../functional-programming/src/main/java/join/via/flatmap/Example.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../functional-programming/src/main/java/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/mylearning/Learning1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/airports/AirportsByLatitudeProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/airports/AirportsInUsaProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/flatmap_ex_wordcount/WordCount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/map_ex_airports/AirportsByLatitudeProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/map_ex_airports/AirportsByLatitudeSolution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/map_ex_airports/AirportsInUsaProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/map_ex_airports/AirportsInUsaSolution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/set_operations_ex_nasaApacheWebLogs/SameHostsProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/set_operations_ex_nasaApacheWebLogs/UnionLogProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sparklearning/sparkTutorial/src/main/java/com/sparkTutorial/rdd/sumOfNumbers/SumOfNumbersProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
