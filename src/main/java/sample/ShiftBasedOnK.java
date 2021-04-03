@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 public class ShiftBasedOnK {
 
     public static void main(String[] args) {
-        //shift based on k
+        //Shift based on k - Ex for combining two arrays
         int[] array = new int[]{1, 2, 3, 4, 5};
         int k = 2;
         List<Integer> list = IntStream.of(array).boxed().collect(Collectors.toList());
