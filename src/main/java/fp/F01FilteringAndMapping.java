@@ -3,7 +3,7 @@ package fp;
 import java.util.Arrays;
 import java.util.List;
 
-public class F01Programming {
+public class F01FilteringAndMapping {
     public static void main(String[] args) {
         Integer [] array = {12, 9, 13, 4, 6, 2, 4, 12, 15};
         List<Integer> numbers = Arrays.asList(array);

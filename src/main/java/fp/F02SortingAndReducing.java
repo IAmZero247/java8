@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class F02Programming {
+public class F02SortingAndReducing {
     /* Intermedicate and Terminal Operation
     NOTE -> operation which takes and return stream are called intermediate operations
             eg-> filter , distinct , sort  ,map , peek , parallel
@@ -54,6 +54,7 @@ public class F02Programming {
         numbers.stream().distinct().forEach(System.out::println);
         */
 
+
         /*4) sort
           numbers.stream().sorted().forEach(System.out::println);
 
@@ -66,15 +67,16 @@ public class F02Programming {
          */
 
 
+
          /*4) Comparator.comparing
          // compare based on length
           courses.stream().sorted(Comparator.reverseOrder()).forEach(System.out::println);
-         */
-        courses.stream().sorted(Comparator.comparing(str -> str.length())).forEach(System.out::println);
+          courses.stream().sorted(Comparator.comparing(str -> str.length())).forEach(System.out::println);
+        */
 
 
 
-
+          System.out.println(addListFunctional(numbers));
 
 
     }
